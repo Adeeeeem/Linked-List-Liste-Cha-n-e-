@@ -1,1 +1,1 @@
-# LinkedList
+# linked List predefined functions.
