@@ -1,1 +1,2 @@
-# linked List predefined functions.
+# LinkedList
+Linked List Predefined Functions by Mohamed Adem Ben Moussa.
